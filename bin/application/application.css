@@ -1,0 +1,64 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.root{
+	-fx-background-color:"white";
+}
+
+/*XML button */
+#btnXml{
+    -fx-background-color: #1b8ee5;
+    -fx-text-fill: #ffffff;
+}
+
+#btnXml:hover {
+	-fx-background-color: #0065b1; 
+}
+
+
+/*XSD button */
+#btnXsd{
+    -fx-background-color: #1b8ee5;
+    -fx-text-fill: #ffffff;
+}
+
+#btnXsd:hover {
+	-fx-background-color: #0065b1;
+}
+
+/*XSD Check */
+#btnCheck
+{
+	-fx-background-color: #00af4d;
+	-fx-text-fill: #ffffff;
+}
+
+#btnCheck:hover
+{
+	-fx-background-color:#00863a;
+	-fx-text-fill: #ffffff;
+	-fx-cursor:pointer;
+}
+
+#taXml
+{
+	-fx-background-color:#1b8ee5;
+	-fx-text-fill: #000000;	
+}
+
+#taXSD
+{
+	-fx-background-color:#1b8ee5;	
+}
+
+#taValidationCheck
+{
+	-fx-background-color:#1b8ee5;	
+}
+
+
+
+
+
+
+
+
+
